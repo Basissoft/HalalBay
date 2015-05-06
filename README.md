@@ -1,2 +1,2 @@
-# HalalHelper
-Helper of Halal
+# HalalBay
+Bay of Halal
